@@ -1,0 +1,1 @@
+src/infrastructure/sqlite/accountRepository.ts(53,10): error TS2440: Import declaration conflicts with local declaration of 'deactivateAccount'.
