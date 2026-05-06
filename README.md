@@ -1,2 +1,1 @@
-# Fluxo-de-Caixa-Cont-bil
-Um programa de entradas e saidas mas com contas contábil pensando em uma futura expansão para um ERP
+# Fluxo-de-Caixa-Cont-bil`nUm programa de entradas e saídas com contas contábeis, pensando em uma futura expansão para um ERP.
